@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules and articles of war, for the better government of his Majesties army in the kingdom of Scotland. Published by his Majesties command.</title>
+            <author>Scotland. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05066</idno>
+            <idno type="STC">Wing R2242B</idno>
+            <idno type="STC">ESTC R182874</idno>
+            <idno type="EEBO-CITATION">53981700</idno>
+            <idno type="OCLC">ocm 53981700</idno>
+            <idno type="VID">180315</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180315)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules and articles of war, for the better government of his Majesties army in the kingdom of Scotland. Published by his Majesties command.</title>
+                  <author>Scotland. Army.</author>
+               </titleStmt>
+               <extent>[3], 36, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: royal arms.</note>
+                  <note>Order to print dated: Given at Our Court, at White-hall the 22 day of April, 1686. And of Our Reign the second year.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Regulations --  17th century.</term>
+               <term>Scotland. --  Army --  Army --  Handbooks, manuals, etc. --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180315:1"/>
+            <pb facs="tcp:180315:1" rendition="simple:additions"/>
+            <p>RULES AND ARTICLES of WAR, For the better Government of His <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> ARMY in the Kingdom of <hi>SCOTLAND.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by His Majesties Command.</hi>
+            </p>
+            <p>
+               <hi>Ex M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lis-Moribus Bonae Leges.</hi>
+            </p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>I<hi rend="sup">7</hi> R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi>
+            </p>
+            <p>Printer to His moſt Sacred <hi>Majeſty, Anno DOM.</hi> 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180315:2"/>
+            <pb n="3" facs="tcp:180315:2"/>
+            <head>RULES <hi>and</hi> ARTICLES For the better Government of His <hi>Majeſties</hi> Forces in <hi>SCOTLAND.</hi>
+            </head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p n="1">
+               <hi>Article</hi> 1. ALL Officers and Sol<g ref="char:EOLhyphen"/>diers (not having juſt impediment) ſhall diligently fre<g ref="char:EOLhyphen"/>quent Divine Service and Sermon, at ſuch time and in ſuch places as ſhall be appointed for the Regiment, Troop or Company, wherein they ſerve; and ſuch as either wilfully or negligently ab<g ref="char:EOLhyphen"/>ſent themſelves from Divine Service or Sermon; or elſe being preſent, do be<g ref="char:EOLhyphen"/>have themſelves undecently or irreve<g ref="char:EOLhyphen"/>rently, during the ſame: If they be Officers, they ſhall ſeverely be repre<g ref="char:EOLhyphen"/>hended at a Court-Martial; But if pri<g ref="char:EOLhyphen"/>vate Soldiers, they ſhall for every ſuch firſt offence, forfeit each man Twelve pence, to be deducted out of their next
+<pb n="4" facs="tcp:180315:3"/>pay: And for the ſecond Offence ſhall forfeit Twelve pence, and be laid in Irons for twelve hours; and for eve<g ref="char:EOLhyphen"/>ry like offence afterwards ſhall ſuffer and pay in like manner.</p>
+            <p n="2">2. During the time of Divine Service, publick Prayers and Sermon as aforſaid, if any Sutler or Seller of Ale, Beer, Wine, or other ſort of Drinks, Bread, Victuals or other Commodities, or Mer<g ref="char:EOLhyphen"/>chandize whatſoever, attending the Ar<g ref="char:EOLhyphen"/>my, ſhall put or ſet any ſuch thing to ſale, he ſhall forfeit the full value there<g ref="char:EOLhyphen"/>of for the uſe of the poor.</p>
+            <p n="3">3. Whoſoever ſhal uſe any unlawful Oath or Execration, whether Officer or Soldier, ſhall incur the ſame penal<g ref="char:EOLhyphen"/>ty that is expreſt in the firſt Article.</p>
+            <p n="4">4. If any Officer or Soldier, ſhall preſume to Blaſpheme the Holy and Undivided Trinity, or the Perſons of God the Father, God the Son, or God the Holy Ghoſt, or ſhall preſume to ſpeak againſt any known Article of the Chriſtian Faith, he ſhall have his Tongue bored through with a red hot Iron.</p>
+            <p n="5">5. If any Officer or Soldier ſhall a<g ref="char:EOLhyphen"/>buſe or prophane, any place Dedicat<g ref="char:EOLhyphen"/>ed
+<pb n="5" facs="tcp:180315:3"/>to the Worſhip of God, or ſhall offer violence to any Miniſter or Chaplain of the Army, or other Miniſter of Gods Word, he ſhall ſuffer ſuch puniſhment as ſhall be inflicted on him by a Court-Martial.</p>
+            <p>But whoever ſhall take away any of the Utenſils or Ornaments belonging, or De<g ref="char:EOLhyphen"/>dicated to Gods Worſhip, in any Church or Chappel, ſhall ſuffer death for the Fact.</p>
+            <p n="6">6. All Officers and Soldiers of what quality or condition ſoever ſhall take the following Oath, which ſhall be admi<g ref="char:EOLhyphen"/>niſtred to them at their firſt Muſter, and entrance into His <hi>Majeſties</hi> pay, and at ſuch other times, and by ſuch perſon or perſons, as His <hi>Majeſty,</hi> His Gene<g ref="char:EOLhyphen"/>ral, Lieutenant General, or Comman<g ref="char:EOLhyphen"/>der in Chief of the Forces for the time being, ſhall appoint.</p>
+            <div type="part">
+               <head>The Oath of Fidelity to be taken by every Officer or Soldier in the Army.</head>
+               <p>I A. B. <hi>Do ſwear to be true and faith<g ref="char:EOLhyphen"/>ful to my</hi> Soveraign Lord King
+<pb n="6" facs="tcp:180315:4"/>JAMES, <hi>and to His Heirs and lawful Succeſſors, and to be obedient in all things, to his General, Lieutenant-General, or Commander in Chief of His Forces for the time being, and will behave my ſelf obedi<g ref="char:EOLhyphen"/>ently towards my ſuperior Officers, in all they ſhall command me for His</hi> Majeſties <hi>ſervice: And I do further ſwear, That I will be a true, faithful and obedient ſervant and Soldier, every way performing my beſt endeavours for His</hi> Majeſties <hi>ſervice, obey<g ref="char:EOLhyphen"/>ing all Orders, and ſubmitting to all ſuch Rules and Articles of War, as are, or ſhall be Eſtabliſhed by His</hi> Majeſty: <hi>And I do likewiſe ſwear, That I believe that it is not lawful upon any pretence whatſoever to take up Arms againſt the KING; And that I do abhor that traiterous Poſition of taking Arms by His Authority againſt his Perſon, or againſt thoſe that are Com<g ref="char:EOLhyphen"/>miſſionated by Him.</hi> So Help me GOD.</p>
+               <p n="7">7. No Officer, or Soldier, ſhall uſe any Traiterous words againſt the Sacred Perſon of the <hi>KING</hi>'s moſt Excellent <hi>Majeſty,</hi> upon pain of Death.</p>
+               <p n="8">8. Whoever ſhall hold Correſpon<g ref="char:EOLhyphen"/>dence with any Enemy of His <hi>Majeſty,</hi>
+                  <pb n="7" facs="tcp:180315:4"/>or Rebel, or ſhal give them advice or in<g ref="char:EOLhyphen"/>telligence, either by Letters, Meſſages, Signs or Tokens, or any manner of way whatſoever, ſhall ſuffer Death for it. And whatever Regiment, Troop or Company, ſhall Treat with ſuch Ene<g ref="char:EOLhyphen"/>my or Rebel, or enter into any Con<g ref="char:EOLhyphen"/>dition with them, without leave from His <hi>Majesty,</hi> His General, or the Of<g ref="char:EOLhyphen"/>ficer in Chief for the time being: The Officers of ſuch Regiment, Troop or Company, who ſhall be found guilty, ſhal die for it; and of the Soldiers who ſhall conſent thereunto, every Tenth<g ref="char:EOLhyphen"/>man by Lot ſhall be hanged, and the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt ſhall be puniſhed at the diſcretion of the General or Commander in Chief. But all ſuch Officers or Soldiers as can prove, that they did their outmoſt to Reſiſt and avoid ſuch a Treaty, and were no ways partakers of the Crime, ſhall not only go free; but alſo be rewarded for their Conſtancy and fidelity.</p>
+               <p n="9">9 Whoever ſhall go about to entice <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or perſwade either Officer or Soldier to joyn or engage in any Traiterous or re<g ref="char:EOLhyphen"/>bellious Acts, either againſt His <hi>Maje<g ref="char:EOLhyphen"/>sty</hi>
+                  <pb n="8" facs="tcp:180315:5"/>or <hi>Kingly Government,</hi> ſhall ſuffer Death for it. And whoever ſhall not reveal to his Superior Officer, ſuch a Conſpiracy or intended Rebellion, ſo ſoon as ever it ſhall come to his knowledge, ſhall be judged equally guilty with the Contrivers of ſuch a Plot or Conſpiracy, and conſequently ſhall ſuffer the ſame penalty.</p>
+               <p n="10">10. If any Officer or Soldier ſhall behave himſelf diſreſpectfully towards the General, Lieutenant General, or other Chief Commander of the Army, or ſpeak words tending to his hurt, or diſhonour, he ſhall die for it.</p>
+               <p n="11">11. Whoſoever in preſence of the General, Lieutenant-General, or other Commander in Chief, ſhall draw his Sword, with a purpoſe to do any Of<g ref="char:EOLhyphen"/>ficer, or any of his fellow Soldiers a miſchief, ſhall die for it.</p>
+               <p n="12">12. Such reſpect and obedience as is due to the General, or other Chief Of<g ref="char:EOLhyphen"/>ficer from theſe under his Command, ſhal be likewiſe given to all Superior Of<g ref="char:EOLhyphen"/>ficers, from their Inferiors, under the like penalty.</p>
+               <pb n="9" facs="tcp:180315:5"/>
+               <p n="13">13. Whoſoever ſhall preſume know<g ref="char:EOLhyphen"/>ingly, To violat any Safe-guard, Con<g ref="char:EOLhyphen"/>duct or Protection, given by His <hi>Ma<g ref="char:EOLhyphen"/>jeſty,</hi> the General, Lieutenant-General, or other Commander in Chief of the Forces, ſhall ſuffer Death.</p>
+               <p n="14">14. If any number of Soldiers ſhall preſume to aſſemble in order to take Counſel among themſelves, for the de<g ref="char:EOLhyphen"/>manding their Pay, any inferior Officers acceſſory thereunto ſhall ſuffer Death for it, as the Heads and Ring-leaders of ſuch mutinous and ſeditious meetings, And if any Captain being privy thereunto, ſhall not ſuppreſs the ſame, or com<g ref="char:EOLhyphen"/>plain of it, he ſhall likewiſe be puniſh<g ref="char:EOLhyphen"/>ed with Death.</p>
+               <p n="15">15. No Officer or Soldier ſhall utter any words tending to ſedition, muti<g ref="char:EOLhyphen"/>ny or uproar, upon pain of Death, or ſuffering ſuch puniſhments as ſhall be in<g ref="char:EOLhyphen"/>flicted upon him by a Court-Martial; and whoever ſhall hear any mutinous or ſeditious words ſpoken, and ſhall not with all diligence poſſible, reveal the ſame to his Superior Officers or Com<g ref="char:EOLhyphen"/>manders, ſhall be puniſhed, as a Court Martial ſhall think fit.</p>
+               <pb n="10" facs="tcp:180315:6"/>
+               <p n="16">16. If any inferior Officer or Sol<g ref="char:EOLhyphen"/>dier ſhall refuſe to obey his Superior Of<g ref="char:EOLhyphen"/>ficer, or quarrel with him, he ſhall be Caſheered, but if any ſhall preſume to reſiſt any Officer in the Execution of his Office, or ſhall ſtrike, or lift up his hand to ſtrike, or ſhall draw, or offer to draw his ſword, or lift up any weapon againſt his Superior Officer, upon any pretence whatſoever, he ſhall ſuffer Death.</p>
+               <p n="17">17. Every Soldier ſhall keep ſilence when the Army is Marching, Embattel<g ref="char:EOLhyphen"/>ing or taking up their Quarters (to the end that their Officers may be heard, and their Orders Executed) upon pain of Impriſonment, at the diſcretion of the Officers.</p>
+               <p n="18">18. Whoſoever ſhall in anger draw his Sword, whilſt his Colours are flee<g ref="char:EOLhyphen"/>ing, either in Battel, or upon a March, unleſs it be againſt the Enemy, ſhall run the Goad-loup.</p>
+               <p n="19">19. When any March is to be made, every man who is ſworn to his Colours, ſhall follow them; and whoever ſhall without leave ſtay behind, or depart a<g ref="char:EOLhyphen"/>bove a mile from the Camp, or out of
+<pb n="11" facs="tcp:180315:6"/>the Army without licence, ſhall march <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Irons for ſuch time as ſhall be thought <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it.</p>
+               <p n="20">20. When the Army or any part of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem, ſhall march through, or lodge <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Countrey, none of them ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xtort free-Quarter, or money from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem, or ſhall commit any waſte or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poil, or cut down Fruit-trees or Plants, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eface Walks of Trees, Parks, War<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ens, Fiſh-ponds, Houſes or Gardens, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ead down or otherwiſe deſtroy ſtand<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng Corn in the Ear; neither ſhall they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut their Horſes into Meadows without <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eave from their Chief-officer, upon pain of ſevere Puniſhment: But if any Officer or Soldier ſhall wilfully burn any Houſe, Barn, Stack of Corn, Hay or Straw, or any Ship, Boat or Carri<g ref="char:EOLhyphen"/>age, or any thing which may ſerve for the Proviſion of the Army, without <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eave from the Commander in Chief, he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hall ſuffer Death for it.</p>
+               <p n="21">21. When the Army or any part <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hereof ſhall come to engadge the Ene<g ref="char:EOLhyphen"/>my in Fight, whoever ſhall run from his Colours (be he native, or ſtranger) or doth not defend them to the outmoſt
+<pb n="12" facs="tcp:180315:7"/>of his power, ſo long as they are in dan<g ref="char:EOLhyphen"/>ger ſhall ſuffer Death for it; and who<g ref="char:EOLhyphen"/>ſoever ſhall at any other time run away from his Colours, ſhall ſuffer Death.</p>
+               <p n="22">22. If any Regiment or Commanded Party ſhall not behave themſelves in Fight againſt an Enemy, as they ought to do, they ſhall either die, or be put out of the Quarters, until by a notable Act they redeem their honour.</p>
+               <p n="23">23. When it ſhall pleaſe God, that the Enemy is beaten, every man ſhall follow his Officer in the Chaſe: But whoſoever ſhall preſume to Pilladge or Plunder, until the Enemy be intirely beaten, and any miſ-fortune happen, he ſhall ſuffer death, or ſuch other puniſh<g ref="char:EOLhyphen"/>ment, as ſhall be pronounced againſt him by the General Court-martial; and the Pilladge ſo gotten ſhall be forefeited to the uſe of the ſick and maimed Sol<g ref="char:EOLhyphen"/>diers.</p>
+               <p n="24">24. When any Town or place ſhall be taken (thaugh by aſſault) no man ſhall preſume to Pilladge any Church or Hoſpital without leave, much leſs to ſet fire to any Church, Hoſpital, School or Miln; neither ſhall they offer vio<g ref="char:EOLhyphen"/>lence
+<pb n="13" facs="tcp:180315:7"/>to any Church-men, aged men, or women, maids or children, unleſs they be found actually in Arms againſt them, upon pain of Death; and whoſoever ſhall Force a woman to abuſe her (whe<g ref="char:EOLhyphen"/>ther belonging to the Enemy or not) and the Fact be ſufficiently proved a<g ref="char:EOLhyphen"/>gainſt him, he ſhall certainly ſuffer death for it.</p>
+               <p n="25">25. In what place ſoever it ſhall pleaſe God, that the Enemy ſhall be ſubdued and overcome; all the Ordnance, Am<g ref="char:EOLhyphen"/>munition and Victuals that ſhall be there found, ſhall be ſecured for His <hi>Maje<g ref="char:EOLhyphen"/>sties</hi> uſe, and for the better Relief of the Army; and one Tenth part of all the ſpoil ſhall be ſet a-part towards the re<g ref="char:EOLhyphen"/>life of the ſick and maimed Soldiers.</p>
+               <p n="26">26. Whoſoever ſhall take any Gene<g ref="char:EOLhyphen"/>ral Officers as Priſoners, they ſhall pre<g ref="char:EOLhyphen"/>ſent them to His <hi>Majeſty,</hi> the General, or the Officer in Chief Commanding the Forces, who will reward them for their ſervice; And whoſoever ſhall take any other Priſoner, may keep to them<g ref="char:EOLhyphen"/>ſelves the Officers and Voluntiers, giv<g ref="char:EOLhyphen"/>ing their names to the Marſhal-Gene<g ref="char:EOLhyphen"/>ral; but ſhall not put them to Ran<g ref="char:EOLhyphen"/>ſom,
+<pb n="14" facs="tcp:180315:8"/>without leave from His <hi>Majeſty,</hi> or the Officer in Chief: And all pri<g ref="char:EOLhyphen"/>vat Soldiers ſo taken Priſoners, are im<g ref="char:EOLhyphen"/>mediatly to be ſent to the Marſhal-Ge<g ref="char:EOLhyphen"/>neral, who is to take them into his Cu<g ref="char:EOLhyphen"/>ſtody.</p>
+               <p n="27">27. If any Soldier ſhall be drunk in the Enemies Quarters, before they have wholly laid down their Arms, and yielded to Mercy, and any hurt, or miſchief enſue thereupon, he ſhall be puniſhed according to the preju<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ice, if it be general; or with Irons, Bread and Water, if no hurt enſue.</p>
+               <p n="28">28. All Officers whoſe charge it is, ſhall ſee the Quarters keeped clean and neat, upon pain of ſevere puniſh<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="29">29. No Officer ſhall ly out all night from the Camp or Quarters, without his Superior Officers leave obtained for the ſame, upon pain of being puniſh<g ref="char:EOLhyphen"/>ed for it, as a Court-Martial ſhall think fit; Neither ſhall any Soldier or Offi<g ref="char:EOLhyphen"/>cer go any by-way to the Camp, other than the common way laid out by Or<g ref="char:EOLhyphen"/>der, upon pain of being puniſhed as a<g ref="char:EOLhyphen"/>foreſaid.</p>
+               <pb n="15" facs="tcp:180315:8"/>
+               <p>But if any Officer ſhall without leave be abſent from his Quarters a Week, he ſhall loſe one Moneths Pay, and if longer, he ſhall be diſcharged from his Command and Place, as a man unfit to bear Office in the Ar<g ref="char:EOLhyphen"/>my.</p>
+               <p n="30">30. No Soldier ſhall preſume to make any Alarm in the Quarters, by ſhooting of his Musket in the night, after the Watch is ſet, unleſs it be at an Enemy, upon pain of Death.</p>
+               <p n="31">31. No Soldier ſhall in anger draw his Sword in any Camp, Poſt or Gari<g ref="char:EOLhyphen"/>ſon, upon pain of Death.</p>
+               <p n="32">32. After warning is given for ſet<g ref="char:EOLhyphen"/>ting the Watch by beat of Drum, or ſound of Trumpet or Fife, if any Soldier ſhall abſent himſelf without a reaſonable cauſe, he ſhall be puniſhed by ryding a Wooden-horſe, or otherwiſe at the diſ<g ref="char:EOLhyphen"/>cretion of the Commander.</p>
+               <p>And whatever Soldier ſhall fail at the beating of a Drum, or ſound of a Trum<g ref="char:EOLhyphen"/>pet or Fife, or upon any Alarm gi<g ref="char:EOLhyphen"/>ven to repair to his Colours, with his Arms decently keeped, and well fixed (unleſs there be an evident neceſſity to
+<pb n="16" facs="tcp:180315:9"/>hinder him from it) he ſhall be clapt in Irons for it, or ſuffer ſuch other pu<g ref="char:EOLhyphen"/>niſhment, as a Court-Martial ſhall think fit.</p>
+               <p n="33">33. Whoever makes known the Watch-word, without Order, or gives any other Word, but what is given by the Officer, ſhall ſuffer Death.</p>
+               <p n="34">34. A Centinel, who is found ſleep<g ref="char:EOLhyphen"/>ing, in any Poſt, Gariſon, Trench, or other place (while he ſhould be upon his Duty) ſhall ſuffer Death, or ſuch o<g ref="char:EOLhyphen"/>ther puniſhment, as the Court-Martial ſhall inflict.</p>
+               <p>And if a Centinel or Perdew, ſhall forſake his place before he be releaved, or drawn off; or upon diſcovery of an Enemy, ſhall not give warning to his Quarters, according to direction, he ſhall ſuffer Death, or ſuch other puniſh<g ref="char:EOLhyphen"/>ment, as a Court-Martial ſhall think fit.</p>
+               <p>And likewiſe, if any Soldier em<g ref="char:EOLhyphen"/>ployed as a Scout, ſhall not go upon that Service, ſo far as he is Command<g ref="char:EOLhyphen"/>ed, or having diſcovered an Ambuſh, or approach of the Enemy, ſhall not re<g ref="char:EOLhyphen"/>turn forthwith to give notice of it, or
+<pb n="17" facs="tcp:180315:9"/>warning to his Quarters; or if he enter into any houſe, and there, or elſe where be found ſleeping, or drunk, whilſt he ſhould be upon Duty, he ſhal ſuffer Death.</p>
+               <p n="35">35. Whoſoever ſhall do violence to any who ſhall bring Victuals to the Camp, or Gariſon, or ſhall take his Horſe, or Goods ſhall ſuffer Death, or ſuch other puniſhment, as he ſhall be ſentenced to by a Court-Marſhal.</p>
+               <p>If any preſume to abuſe, or beat his Hoſt, or the Wife, Child, or Servant of his Hoſt, where he is quartered, or billetted, he ſhall be put in Irons for it; and if he do it a ſecond time, he ſhall be further puniſhed, and the party wrong<g ref="char:EOLhyphen"/>ed ſhall have amends made him; And if any preſume to exact free quarter with<g ref="char:EOLhyphen"/>out leave from the Chief-Officer upon the place, they ſhall be ſeverly puniſhed at the diſcretion of a Court-Marſhal.</p>
+               <p n="36">36. No Soldier, or Officer ſhal uſe any reproachful, or provocking ſpeech or act to another, upon pain of Impri<g ref="char:EOLhyphen"/>ſonment, and ſuch other Puniſhment as a Court-Marſhal ſhall think fit.</p>
+               <p>Nor ſhall any Soldier, or Officer pre<g ref="char:EOLhyphen"/>ſume
+<pb n="18" facs="tcp:180315:10"/>to ſend a Challenge to any other Officer or Soldier, to fight a Duel; neither ſhall any Soldier, or Officer pre<g ref="char:EOLhyphen"/>ſume to up-braid another for refuſing a Challenge; And whoſoever ſhall offend in either of theſe Caſes; if he be an Of<g ref="char:EOLhyphen"/>ficers, he ſhall loſs his Place, and Com<g ref="char:EOLhyphen"/>mand, whatever it be; and if a privat Soldier, he ſhall ryde the Wooden-Horſe, and be further puniſhed, as a Court-Marſhal ſhall think fit: And if any Corporal, or other Officer, Com<g ref="char:EOLhyphen"/>manding a Guard, ſhall willingly or knowingly ſuffer either Soldiers or Of<g ref="char:EOLhyphen"/>ficers, to go forth to a Duel, or privat Fight, he ſhall be puniſhed for it by the ſentence of a Court-Marſhal.</p>
+               <p>And foraſmuch, as all Officers of what Condition ſoever, have power to Part and Quell all Quarrells, Frays, and ſud<g ref="char:EOLhyphen"/>dain Diſorders, between Soldiers, and Offi<g ref="char:EOLhyphen"/>cers, though of another Company, Troop or Regiment; and to commit the diſorder<g ref="char:EOLhyphen"/>ly Perſons to Priſon, until their proper Officers be acquainted therewith; Who<g ref="char:EOLhyphen"/>ever ſhall reſiſt ſuch an Officer (though of another Company, Troop, or Regi<g ref="char:EOLhyphen"/>ment) or draw his Sword upon him,
+<pb n="19" facs="tcp:180315:10"/>ſhall be ſeverly puniſhed, as a Court-Marſhal ſhall appoint.</p>
+               <p>But if two, or more going into the Field to fight a Duel ſhall draw their Swords, or other Weapons, though nei<g ref="char:EOLhyphen"/>ther of them fall upon the Spot, nor die afterwards of any Wound there receiv<g ref="char:EOLhyphen"/>ed; yet if they be Officers, they ſhall loſs their Places; and if common Soldi<g ref="char:EOLhyphen"/>ers, they ſhall be puniſhed with ryding the Wooden-horſe, or otherwiſe, as a Court-Marſhal ſhall direct. And laſtly, in all Caſes of Duels, the Seconds ſhal be taken as Principalls, and puniſhed ac<g ref="char:EOLhyphen"/>cordingly.</p>
+               <p n="37">37 None ſhall be Muſtered, but ſuch as are compleatly Armed, <hi>viz.</hi> Each Horſ-man ſhall have for his defenſive Arms, Back, Breaſt and Pot; and for his offenſive Arms, a Sword not under three foot long in the Blade, and a Caſe of Piſtols, the Barrels whereof not to be under 14. inches in length; and each Trooper of the Guards is to have a Car<g ref="char:EOLhyphen"/>rabyne, beſide the aforſaid Arms. And the Foot to have each Soldier, a Sword, or Dagger for their Muskets; and each Pik-man, a Pike of ſixteen foot long,
+<pb n="20" facs="tcp:180315:11"/>and not under, and each Muſquetier a Musquet with a Collar of Bandeliers, the Barrel of which Muſquet to be about four foot long, and to contain a Bullet, 14 of which ſhall make a pound, run<g ref="char:EOLhyphen"/>ning into the Barrel.</p>
+               <p>If any borrow Arms of another to paſs the Muſter withall; the Lender, if he be a Soldier, ſhall forfeit the value of the Arms ſo lent, to be taken out of his pay; and the borrower ſhall be ſeverly puniſhed.</p>
+               <p n="38">38 None ſhall be allowed upon the Muſter, who, by loſs of Limbs, or other<g ref="char:EOLhyphen"/>wiſe is unfit for ſervice, but by Order from His <hi>Majesty,</hi> or the Commander in Chief of the Forces.</p>
+               <p n="39">39. No Houſe-keeper, or Inhabitant in the vſual Quarters of His <hi>Majeſties</hi> Guards of Horſe or Foot, or in the vſual Quarters of any other Regiment or Ga<g ref="char:EOLhyphen"/>riſon, ſhall be received or intertained in His <hi>Majeſties</hi> Service, or pay, and Mu<g ref="char:EOLhyphen"/>ſtered as a privat Soldier without order from His <hi>Majeſty,</hi> or the Commander in Chief of the Forces, nor ſhall any Officer demand, or receive directly, or indirectly any ſum of money whatſoe<g ref="char:EOLhyphen"/>ver
+<pb n="21" facs="tcp:180315:11"/>from any under his Command, for admitting and entertaining him in his Troop, Company, or Gariſon, upon pain of being Caſhiered, or rendered incapable of being employed again in Army.</p>
+               <p n="40">40. No Captain of a Troop, or Com<g ref="char:EOLhyphen"/>pany ſhall upon pain of being render<g ref="char:EOLhyphen"/>ed uncapable of ever ſerving in His <hi>Majeſties</hi> Armies, be allowed to Mu<g ref="char:EOLhyphen"/>ſter any Servants in his Troop, or Com<g ref="char:EOLhyphen"/>pany; but theſe who are not only able, and fit for ſervice, but alſo are bound by oath and pay to follow the Troop, or Company, and who duly and con<g ref="char:EOLhyphen"/>ſtantly appear in proper Arms at every Muſter unleſs they have leave to be ab<g ref="char:EOLhyphen"/>ſent, which is not to be granted, but upon a real and neceſſary occaſion; And whoſoever ſhall preſent himſelf, or his horſe in the Muſter, to miſlead the Muſter-Maſter, or defraud His <hi>Majeſty,</hi> ſhall ſuffer ſuch puniſhment, as a Court-Marſhal ſhall think fit.</p>
+               <p n="41">41. No man ſhall preſume to preſent himſelf to the Muſter-Maſter to be en<g ref="char:EOLhyphen"/>rolled in the Muſter-Rolls by a Coun<g ref="char:EOLhyphen"/>terfeit, or wrong Name, or Sir-name, or
+<pb n="22" facs="tcp:180315:12"/>of Birth or Habitation, upon pain of running the Goad-loup, if he be a Foot-man; or for faulting his Horſe and Arms, if he a Horſe-man.</p>
+               <p n="42">42 If any Lieutennant, Cornet or Enſign ſhall diſcover, and make proof to a General Officer, or Collonel, that his Captain hes made falſe Muſters, the ſaid Captain ſhall be Caſhiered, and the Lieutennant, or Enſign diſcovering as aforſaid ſhall have the place of his Cap<g ref="char:EOLhyphen"/>tain; and if Sergeant or Corporal ſhal diſcover, and make proof of falſe Mu<g ref="char:EOLhyphen"/>ſters, as aforſaid, he ſhal have for each time the ſum of Five hundreth Merks Scots Money, payable by the Pay-Ma<g ref="char:EOLhyphen"/>ſter, at the firſt Muſter immediatly fol<g ref="char:EOLhyphen"/>lowing the diſcovery ſo made. But, if upon Examination, his Accuſation ſhall be found Falſe and Malicious, in that caſe he ſhall be immediatly Ca<g ref="char:EOLhyphen"/>ſhiered, and ſuffer ſuch further puniſh<g ref="char:EOLhyphen"/>ment, as ſhall be judged fit by a Court-Martial.</p>
+               <p n="43">43. If any Soldier ſhal be ſick, wound<g ref="char:EOLhyphen"/>ed or maimed in His <hi>Majeſties</hi> ſervice, he ſhall be ſent out of the Camp, or Quarters, to ſome fit place for his reco<g ref="char:EOLhyphen"/>very,
+<pb n="23" facs="tcp:180315:12"/>where he ſhall be provided for by the Officer appointed to take care of the ſick and wounded Soldiers, and his wages or pay ſhall go on, and be duly payed, untill it doth appear, that he can be no longer ſerviceable in His <hi>Majesties</hi> Armies, and then he ſhall be ſent by Paſs to his Countrey, with money to bear his charges in his travel, or be otherwiſe provided for, as his caſe ſhal require.</p>
+               <p n="44">44. All Captains ſhall uſe their out<g ref="char:EOLhyphen"/>moſt endeavours to have their Troops and Companies compleat, and full: And within two days after every General Muſter, both the Captain, and the Muſter-Maſter, ſhall ſend to the Com<g ref="char:EOLhyphen"/>mander in Chief of the Forces (if he requires it) and to the Treaſurer, or Pay-Maſter of the Army, a perfeit Liſt and Roll of all the Officers, Troopers and Soldiers of their Troops and Com<g ref="char:EOLhyphen"/>panies that are in actual ſervice, punctu<g ref="char:EOLhyphen"/>ally expreſſing at the foot of the Rolls what new Officers, Troops and Soldiers have been intertained ſince the preceed<g ref="char:EOLhyphen"/>ing Muſter, in lieu of ſuch as have been Caſhiered, or are Deceaſed, with the
+<pb n="24" facs="tcp:180315:13"/>day when the one died, or went off, and the other intertained in his place.</p>
+               <p n="45">45. All Commiſſions granted by His <hi>Majesty,</hi> the General or Commander in Chief of His <hi>Majeſties</hi> Forces to any Officier in Pay, ſhall be brought to the Commiſſary of the Muſters, and Secre<g ref="char:EOLhyphen"/>tary at War, who are to receive and enter the famine in a Book fairly writ<g ref="char:EOLhyphen"/>ten; and no Commiſſion-Officer ſhall be allowed in Muſter without a Com<g ref="char:EOLhyphen"/>miſſion from His <hi>Majeſty,</hi> or the Com<g ref="char:EOLhyphen"/>mander in Chief for the time being, and the ſame entered with the Commiſſary General of the Muſters, or his Deputies, and Secretary at War.</p>
+               <p n="46">46. No Commiſſion-Officer after in<g ref="char:EOLhyphen"/>rolment, and being Muſtered, ſhall be Diſmiſſed or Caſhiered without order from His <hi>Majeſty,</hi> or the Commander in Chief: But for Non-commiſſion Offi<g ref="char:EOLhyphen"/>cers, or private Soldiers, their Cap<g ref="char:EOLhyphen"/>tains with approbation of their Col<g ref="char:EOLhyphen"/>lonells, or of the Governour of the Ga<g ref="char:EOLhyphen"/>riſon, where they are, may diſcharge them, when they find cauſe; taking other Non-commiſſion Officers, or Sol<g ref="char:EOLhyphen"/>diers in their places; Provyded that ſuch
+<pb n="25" facs="tcp:180315:13"/>Colonell or Governour ſhall forthwith certifie the Muſter-Maſter, that by their approbation, ſuch Non-Commiſſion-Officers, or Soldiers were diſcharged, and others taken in their places reſpec<g ref="char:EOLhyphen"/>tively; And in Quarters, and Gariſons where there are only ſingle Troops, or Companies, the Captains Certificats are forthwith to be ſent, and accepted by the Muſter-Maſter, expreſſing the day of each Non-Commiſſion-Officers or Sol<g ref="char:EOLhyphen"/>diers Diſcharge, or Death, and who was entertained in his place.</p>
+               <p n="47">47. No Soldiers Duty either of Horſe or Foot, ſhall be done by any o<g ref="char:EOLhyphen"/>ther then the Soldier himſelf; but in caſe of Sickneſſe and Diſability, and o<g ref="char:EOLhyphen"/>ther neceſſary cauſe, his Captain may diſpenſe with his abſence, without cauſ<g ref="char:EOLhyphen"/>ing him to find another to ſerve in his ſtead.</p>
+               <p n="48">48. The Muſter-Maſter ſhall always (the night before) give notice to the Officer in Chief, commanding any Re<g ref="char:EOLhyphen"/>giment, Troop, Company, or Gariſon, of the time and place for their Muſters, that ſo the Officers and Soldiers may have time to make ready for their Mu<g ref="char:EOLhyphen"/>ſter;
+<pb n="26" facs="tcp:180315:14"/>and upon every Muſter, three Muſter-Rolls are to be prepared of the reſpective Troops and Companies. In Which Rolls the names of all privat Soldiers are to be written Alphabetical<g ref="char:EOLhyphen"/>ly, one of which Rolls is to be in parch<g ref="char:EOLhyphen"/>ment, for the Pay-Maſter, and to be ſubſcribed; as alſo another Roll, which the Muſter-Maſter is to keep, by two Commiſſion-Officers at the leaſt of the reſpective Troops and Companies, to<g ref="char:EOLhyphen"/>gether with the Muſter-Maſter; and the third Muſter-Roll is to be ſub<g ref="char:EOLhyphen"/>ſcribed only by the Muſter-Maſter, which the Officer is to keep; and no Rolls are to be allowed by the Muſter-Maſter, and Pay-Maſter otherwiſe, than as His <hi>Majeſtie</hi> hes herein, or other<g ref="char:EOLhyphen"/>wiſe directed; and the ſaid Muſter-Rolls are to be perfected forthwith up<g ref="char:EOLhyphen"/>on every Muſter.</p>
+               <p n="49">49. If any Trooper, Dragooner, or Foot-Soldier ſhall loſe or ſpoil his Horſe or Arms, or any part thereof, by negli<g ref="char:EOLhyphen"/>gence, or Gaming, he ſhall remain in the Quality of an Pioner or Scavenger, till he be furniſhed with as good as were loſt, at his own charge; and if he be
+<pb n="27" facs="tcp:180315:14"/>not otherwiſe able, the one half of his Pay ſhall be deducted, and ſet a-part, for the providing of them, till he be re<g ref="char:EOLhyphen"/>furniſhed.</p>
+               <p>Neither ſhall any Soldier pawn or ſell, or negligently, or willfully break his Arms, or any part thereof, or any Hatchets, Spade, Shovels, Pick-axes or other Materials of War, upon pain of ſever puniſhment, at the diſcre<g ref="char:EOLhyphen"/>tion of a Court-Martial.</p>
+               <p>And where any Arms, or other Ma<g ref="char:EOLhyphen"/>terials aforſaid ſhall be pawned or im<g ref="char:EOLhyphen"/>bazeled, they ſhall be forfeited and ſeized upon, for His <hi>Majeſties</hi> uſe.</p>
+               <p n="50">50. All Officers and Soldiers, and al<g ref="char:EOLhyphen"/>ſo the Muſter-Maſters not duely obſerv<g ref="char:EOLhyphen"/>ing theſe Articles, and ſuch other Or<g ref="char:EOLhyphen"/>ders, as ſhall be ſignified to them, ſhall be Caſhiered, or ſuffer ſuch other pu<g ref="char:EOLhyphen"/>niſhments, as His <hi>Majeſty,</hi> the Comman<g ref="char:EOLhyphen"/>der in Chief of the Forces, or the Court-Martial ſhall appoint; nor ſhall any Muſter-Maſter let any paſs the Muſters, but ſuch as are duely qualified, upon pain of loſing his Place.</p>
+               <p n="51">51. None ſhall preſume to ſpoil, ſell, or convoy away, any Ammunition de<g ref="char:EOLhyphen"/>livered
+<pb n="28" facs="tcp:180315:15"/>unto him, upon pain of ſuffering Death, or ſuch other puniſhment, as a Court-Martial ſhall think fit.</p>
+               <p n="52">52. No Officer, Provider or Keeper of His <hi>Majeſties</hi> Victuals, or Ammunition for the Forces, ſhall willingly embazel, or ſpoil, or give a falſe account of any part thereof, to whom he is to make his account, upon pain of ſuffering ſuch Puniſhment; as a Court-Martial ſhall think fit.</p>
+               <p n="53">53. No Commiſſary, or Victualer ſhall bring, or furniſh the Camp with any unſound, or unſavory Victuals of what kind ſoever, whereby ſickneſs may grow in the Army, or the Service be hindered; And if, upon examination before a Court-Martial, he ſhall be found guilty, he ſhall ſuffer ſuch pu<g ref="char:EOLhyphen"/>niſhment as they ſhall think fit.</p>
+               <p n="54">54. No Victualer, or ſeller of Beer, Ale or Wine, belonging to the Army, ſhall entertain any Soldier in his Houſe, Booth, Tent or Hutt, after the warn<g ref="char:EOLhyphen"/>ing-Piece, Tattoe or beat of Drum at night, or before the beating of the Revaillies in the morning, nor ſhall any Soldier (within that time) be any
+<pb n="29" facs="tcp:180315:15"/>where, but upon his Duty, or in his Quarters, upon pain of puniſhment, both of the Soldier, and Entertainer, at the discretion of a Court-Martial.</p>
+               <p n="55">55. The Commiſſion-Officers of every Regiment may hold a Court Marſhal for that Regiment upon any neceſſary oc<g ref="char:EOLhyphen"/>caſion: And the Provoſt-Marſhal of every Regiment: As alſo the Martial of the Troop of Guards, ſhall have the ſame Priviledge and Authority, in his own Regiment or Troop, as the Pro<g ref="char:EOLhyphen"/>voſt-Marſhal-General hath in the Army or Camp; and likewiſe ſuch Fees, as the Court-Martial ſhall allow.</p>
+               <p n="56">56. Such as are Judges in any Court-Martial, ſhall take an oath for the due adminiſtration of Juſtice, according to theſe Articles; and where no particular Puniſhment is hereby aſſigned, accord<g ref="char:EOLhyphen"/>ing to their Conſciences, the beſt of their understandings, and the Cuſtom of War in like Caſes; and ſhall Demean themſelves orderly, in the hearing of Cauſes (as becomes the Gravity of ſuch a Court) and before giving of Sen<g ref="char:EOLhyphen"/>tence, every Judge ſhall deliver his Vote and Opinion diſtinctly, and the
+<pb n="30" facs="tcp:180315:16"/>Sentence ſhall be according to the plu<g ref="char:EOLhyphen"/>rality of Vots; And if there happen to be an Equality of Votes, the Preſident is to have a caſting Vote.</p>
+               <p>And when the Sentence is to be given, the Preſident ſhall pronounce it; after which the Provoſt-Marſhal ſhall have warrant to cauſe execution to be done, according to the Sentence.</p>
+               <p n="57">57. At the Courts-Martial, there ſhal be a Clerk, who is to be ſworn, to make true and faithful Records of all the proceedings of that Court; and there ſhall be alſo ſuch other Officers appointed, as ſhal be neceſſary; And the General Court-Martial may appoint, and limit the Fees of the Provoſt-Mar<g ref="char:EOLhyphen"/>ſhal-General, as they ſhall think fit.</p>
+               <p n="58">58. All Controverſies either between Soldiers and their Captains, or other Officers, or between Soldier and Soldi<g ref="char:EOLhyphen"/>er, relating to their military Capacities, ſhall be ſummarily heard and determin<g ref="char:EOLhyphen"/>ed at the next Court-Martial of the Re<g ref="char:EOLhyphen"/>giment.</p>
+               <p n="59">59. In any matter which ſhall be Adjudged in any of the aforſaid Regi<g ref="char:EOLhyphen"/>mental Courts-Martiall, either of the
+<pb n="31" facs="tcp:180315:16"/>Parties that finds himſelf aggrieved, may appeal to a Superior Court-Martial, who are to take care, that if the party ap<g ref="char:EOLhyphen"/>pealing make not good his ſuggeſtion, Recompence be made to the other, for the trouble and charge of ſuch an ap<g ref="char:EOLhyphen"/>peal.</p>
+               <p n="60">60. In all Criminal Cauſes, which concern the Crown, the Advocat-Ge<g ref="char:EOLhyphen"/>neral, or Judge-Advocat of His <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Army, ſhall inform the Court, and proſecute on His <hi>Majeſties</hi> behalf.</p>
+               <p n="61">61. No Officer, or Soldier ſhall pre<g ref="char:EOLhyphen"/>ſum to hinder the Provoſt-Marſhall, his Lieutennants, or Servants in the execu<g ref="char:EOLhyphen"/>tion of their Office, upon pain of Death, or ſuch other Puniſhment, as the Court-Martial ſhall think fit, But on the con<g ref="char:EOLhyphen"/>trary, all Captains, Officers and Soldi<g ref="char:EOLhyphen"/>ers ſhall do their outmoſt to apprehend, and bring to Puniſhment all Offen<g ref="char:EOLhyphen"/>ders; and ſhall aſſiſt the Officers of the Army, or Regiment for that purpoſe: Eſpecially the ſaid Provoſt-Marſhal, his Lieutenant, and Servants; and if the Proveſt-Marſhall, or his Officers, require the aſſiſtance of any Offi<g ref="char:EOLhyphen"/>cer, or Soldier, in apprehending any
+<pb n="32" facs="tcp:180315:17"/>Perſon, Declaring to him that it is for a Capital-Crime, and the party eſcape for want of aid and aſſiſtance; the Party, or Parties refuſing to aid, or aſſiſt, ſhall ſuffer ſuch Puniſhment, as the Court-Martial ſhall inflict.</p>
+               <p n="62">62. If any Officer, or Soldier ſhall preſume to draw his Sword in any place of Judicature, while the Court is ſitting, he ſhall be put to Death; And His <hi>Majeſty</hi> doth hereby Authorize the Provoſt-Marſhal General of the Army by his own Authority to apprehend ſuch offenders; And if any Soldier be<g ref="char:EOLhyphen"/>ing committed, for any offence, ſhall break Priſon; the ſaid Pro<g ref="char:EOLhyphen"/>voſt-Marſhall-General, ſhall by his own Authority apprehend him, and the of<g ref="char:EOLhyphen"/>fender ſhall ſuffer Death, or ſuch other Puniſhment, as the Court-Martial ſhall think fit.</p>
+               <p n="63">63. If any Fray ſhall happen within the Camp, or place of Gariſon, in any of the Soldiers Lodgings, or where they meet, it ſhall be enquired into by the Officers of the Regiment, and the beginners, and the Purſuers thereof puniſhed, according to the quality of the Offence.</p>
+               <pb n="33" facs="tcp:180315:17"/>
+               <p n="64">64. If any Inferior Officer, either of Horſe or Foot, be wronged by his Of<g ref="char:EOLhyphen"/>ficer, he may complain to his Colonell, or other Superior Officer of the Regi<g ref="char:EOLhyphen"/>ment, who is to redreſs the ſame upon due proof made of the wrong done; but if he fail therein, the party aggrieved is to apply to the General-Officer for redreſs; and if the accuſation be falſe, the Complainer is to ſuffer ſuch pu<g ref="char:EOLhyphen"/>niſhment as the Officer ſhould have done; if he had been found guilty.</p>
+               <p n="65">65. If any Colonell or Captain ſhall force, or take any thing away from any privat Soldier, ſuch Colonell or Captain ſhall be puniſhed, according to the quality of the Offence, by the Judgement of a Court-Martial; but if a Soldier ſhall be wronged, and ſhall not appeal to the Court, or his Supe<g ref="char:EOLhyphen"/>rior Commanders, but take his own ſatisfaction for it, he ſhall be puniſhed by the Judgement of a Court-Mar<g ref="char:EOLhyphen"/>tiall.</p>
+               <p n="66">66. If any Soldier die, no other ſhal take or ſpoil his Goods, upon pain of reſtor<g ref="char:EOLhyphen"/>ing double the value to whom they belong, and of ſuch further puni<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ment
+<pb n="34" facs="tcp:180315:18"/>as the Court-Martial ſhall think fit; but the Captain of the Company to which ſuch Soldier did belong, ſhall take the ſaids Goods into his Cuſtody, and diſpoſe of them for paying his Quarters, and keep the Over-plus (if any be) for the uſe of ſuch to whom they belong, as ſhall claim the ſame within three moneths after his Death; and if any Captain or Officer die, the Chief-Commander ſhall take care of preſerving his Eſtate in like manner.</p>
+               <p n="67">67. No Provoſt-Marſhal ſhall refuſe to receive or keep a Priſoner ſent to his Charge by Authority, or ſhall diſ<g ref="char:EOLhyphen"/>miſs him without Order, upon pain of ſuch puniſhment, as a Court-Martial ſhall think fit. And if the Offence, for which the Priſoner was apprehend<g ref="char:EOLhyphen"/>ed, deſerved Death, the Provoſt-Mar<g ref="char:EOLhyphen"/>ſhall failling to receive and keep him, as aforſaid, ſhall be lyable to the ſame puniſhment.</p>
+               <p n="68">68. If the Provoſt-Marſhal commit any Perſon by his own Authority, with<g ref="char:EOLhyphen"/>out other Command, he ſhall acquaint the Generall, or other Chief-Com<g ref="char:EOLhyphen"/>mander of the cauſe thereof, with<g ref="char:EOLhyphen"/>in
+<pb n="35" facs="tcp:180315:18"/>in 24 houres: And the Provoſt-Marſhal ſhall thereupon diſmiſs him, unleſs he have Order to the contrary.</p>
+               <p n="69">69. No man ſhall preſume to uſe any Braving, or Menacing Words, Signs, or Geſtures, where any of the forſaid Courts of Juſtice are ſitting, upon pain of ſuffering ſuch puniſh<g ref="char:EOLhyphen"/>ment, as the Court-Martial ſhall in<g ref="char:EOLhyphen"/>flict.</p>
+               <p n="70">70 Where any Sentence of Death is given out in the Court-Martial, it ſhall be read by the Regiſter of the Court, in the preſence of the Condem<g ref="char:EOLhyphen"/>ned Perſon, and Signed by the Preſi<g ref="char:EOLhyphen"/>dent; thereafter it ſhall be given to the Generall, or Chief-Officer, who may, notwithſtanding ſuſpend the ſame, untill he ſhall acquaint His <hi>Majeſty,</hi> or ſee it put in Execution, as he ſhall think fit.</p>
+               <p n="71">71. In the General-Court-Martial ſhall allways preſide one of the Great Officers of the Army; likeas, in a Re<g ref="char:EOLhyphen"/>gimental-Court-Martiall, the Colonell, or other Field-Officer; and when a Court-Martial ſhall be held for the Horſe, the Captain of the Guard ſhall
+<pb n="36" facs="tcp:180315:19"/>preſide, or a General-Officer, who, after taking the Oath aforſaid, ſhall pro<g ref="char:EOLhyphen"/>ceed to give their Judgement, untill Sen<g ref="char:EOLhyphen"/>tence ſhall be pronounced againſt the Delinquents, or the matter contro<g ref="char:EOLhyphen"/>verted.</p>
+               <p n="72">72. Whatſoever ſhall be Directed by His <hi>Majeſty,</hi> the General, or other Superior-Officer, ſhall be publiſhed by beat of Drum, or ſound of Trumpet, that no man may pretend ignorance thereof; and whoſoever ſhall be found diſobedient, or faulty againſt what is ſo publiſhed, ſhall be puniſhed, con<g ref="char:EOLhyphen"/>form to the pains contained in the Pro<g ref="char:EOLhyphen"/>clamation, or theſe Articles.</p>
+               <pb facs="tcp:180315:19"/>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>IT is Our Royall Will and Pleaſure, That theſe Articles, and Rules, in number Seventy two, be forthwith Printed and Publiſhed, at the firſt: Muſter of Our Forces, after the Date hereof; and at ſuch other times, as Our General, Lieutenant-General, or Com<g ref="char:EOLhyphen"/>mander in Chief of Our Forces ſhall Direct, Which is to be done in the moſt publick manner, at the head of every Regiment, Troop, or Company: For the performance whereof, This ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>all be to all Perſons that may be there<g ref="char:EOLhyphen"/>in concerned, a ſufficient Warrant.</p>
+                     <closer>
+                        <dateline>Given at Our Court, at <hi>White-hall</hi> 
+                           <date>the 22. Day of <hi>April.</hi> 1686.</date> And of Our Reign the Second Year.</dateline>
+                        <signed>By His <hi>Majeſties</hi> Command, <hi>MELFORT.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb facs="tcp:180315:20"/>
+               <pb facs="tcp:180315:20"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
